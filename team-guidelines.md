@@ -29,3 +29,6 @@ After the blank line, provide additional context: why you made this change, what
     Are there any side effects or limitations?
     What alternatives were considered?
 
+Pull Request Process:
+A pull request (PR) process involves
+developing code on a feature branch, pushing it to a repository, and opening a request to merge changes into the main branch. Team members review, discuss, and test the code. Upon approval and passing automated checks, the code is merged.
